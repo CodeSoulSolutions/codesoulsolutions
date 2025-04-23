@@ -31,7 +31,7 @@
 
 ###
 
-<div align="left">
+<div align="left" style="margin-left: 30px">
   <img src="https://www.codesoul.solutions/assets/reusable-assets/icons/angular.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
